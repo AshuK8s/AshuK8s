@@ -8,7 +8,3 @@
 
 ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=AshuK8s&theme=dracula&hide_border=true&border_radius=10) | ![Most Used Languages](https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=AshuK8s&show_icons=true&theme=dracula&hide_border=true&border_radius=10&hide=jupyter%20notebook,kvlang)
 --|--
-
-## Hacktoberfest 2022 badges 
-
-[![@ashu_coder's Holopin board](https://holopin.me/ashu_coder)](https://holopin.io/@ashu_coder)
