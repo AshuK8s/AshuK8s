@@ -12,5 +12,3 @@
 ## Hacktoberfest 2022 badges 
 
 [![@ashu_coder's Holopin board](https://holopin.me/ashu_coder)](https://holopin.io/@ashu_coder)
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=130&text=Bye!&fontSize=30)
