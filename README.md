@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hey%20there!%20I'm%20Ashutosh%20👋&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hey%20there!%20I'm%20Ashutosh%20👋&fontSize=40&animation=fadeIn)
 
 ## Technologies 🧑🏻‍💻
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,python,java,c,cpp,flutter,fastapi,flask,aws,gcp,azure)](https://skillicons.dev)
